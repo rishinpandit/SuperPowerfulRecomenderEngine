@@ -20,7 +20,6 @@
 - Kuch Kch Hota Hai
 - Om Shanti Om
 - Main Hoon Na
-- Kapoor and Sons 
 - Bunty Aur Babli 
 - Khoobsurat
 - A Gentleman
@@ -36,3 +35,7 @@
 - Badla
 - Jab Harry Met Sejal 
 - fanaa
+- badhaai ho
+- fukrey
+- patiala house
+- kaminey
